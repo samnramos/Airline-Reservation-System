@@ -5,7 +5,7 @@
 - **Java Script
 
 ## Installation
-1. Download the repo as a zip file pressing the code button
+1. Download the repo as a zip file pressing the code
 2. Select download zip
 3. Locate the file on your computer and extract (unzip) to access the files
 4. Run it on Eclipse IDE
