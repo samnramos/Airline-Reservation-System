@@ -1,5 +1,7 @@
 # Airline Reservation — Starter
 
+## Using the repo
+
 ## Prerequisites
 
 - **Eclipse IDE
