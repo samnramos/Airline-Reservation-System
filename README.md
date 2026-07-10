@@ -1,4 +1,4 @@
-# Airline Reservation — Starter
+# Airline Reservation System
 
 ## Prerequisites
 
