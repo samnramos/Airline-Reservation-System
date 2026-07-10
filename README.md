@@ -1,12 +1,22 @@
-# Airline-Reservation-System
-Airline Reservation System that allows you to book and pay for a flight. Built in Java.
+# Airline Reservation — Starter
 
-Requirements
+## Using this repo
 
-Eclipse/Java
 
-How to Run
-1. Download the repo
-2. Use in Eclipse (should show in eclipse-workspace)
-3. Run the program
-4. It will give you a list of questions you could answer 
+
+## Prerequisites
+
+- **Eclipse IDE
+- **Java Script
+
+## Installation
+
+
+
+## How to use
+
+1. Import the files you downloaded into your eclipse.
+2. Press the big green play button on the top.
+3. "Enter your first name:" will show up in your console.
+4. Answer the questions provided. 
+
