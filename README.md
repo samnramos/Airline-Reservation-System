@@ -1,8 +1,8 @@
 # Airline Reservation System
 
 ## Prerequisites
-- **Eclipse IDE
-- **Java Script
+**Eclipse IDE
+**Java Script
 
 ## Installation
 1. Download the repo as a zip file pressing the code
